@@ -36,7 +36,7 @@ body {
     content: "";
     position: absolute;
     bottom: 0;
-    background: url(images/homebg.jpg) no-repeat center center;
+    background: url(/images/homebg.jpg) no-repeat center center;
     /* background-attachment: fixed; */
     background-size: cover;
     left: 0;
